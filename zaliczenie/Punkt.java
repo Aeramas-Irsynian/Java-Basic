@@ -2,6 +2,7 @@
     Artur Krycha
     Informatyka i Ekonometria, niestacjonarne 17/18
     Numer indeksu: 60011
+    Zadania A1, B1, C1
  */
 
 class TestPunkt {
